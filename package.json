@@ -1,0 +1,28 @@
+{
+  "name": "geop-capas-fijas",
+  "version": "1.0.0",
+  "description": "Capas Fijas Geoportal - PUCV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otrojota/geop-capas-fijas.git"
+  },
+  "keywords": [
+    "geoportal",
+    "pucv",
+    "pomeo"
+  ],
+  "author": "Jota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otrojota/geop-capas-fijas/issues"
+  },
+  "homepage": "https://github.com/otrojota/geop-capas-fijas#readme",
+  "dependencies": {
+    "geop-base-proveedor-capas": "git+https://github.com/otrojota/geop-base-proveedor-capas.git",
+    "moment-timezone": "^0.5.27"
+  }
+}
