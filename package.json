@@ -23,6 +23,6 @@
   "homepage": "https://github.com/otrojota/geop-capas-fijas#readme",
   "dependencies": {
     "geop-base-proveedor-capas": "git+https://github.com/otrojota/geop-base-proveedor-capas.git",
-    "moment-timezone": "^0.5.27"
+    "moment-timezone": "^0.5.35"
   }
 }
